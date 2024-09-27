@@ -302,7 +302,8 @@ paths:
           schema:
             type: string
             enum:
-              - false
+           
+             - false
               - true
       responses:
         '200':
